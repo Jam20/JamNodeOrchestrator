@@ -1,0 +1,29 @@
+{
+  "name": "coreservice",
+  "version": "1.0.0",
+  "description": "Core NodeJs module used to combine personal projects/services",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jam20/JamNodeOrchestrator.git"
+  },
+  "keywords": [
+    "docker",
+    "node",
+    "service"
+  ],
+  "author": "James Brouckman",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Jam20/JamNodeOrchestrator/issues"
+  },
+  "homepage": "https://github.com/Jam20/JamNodeOrchestrator#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
